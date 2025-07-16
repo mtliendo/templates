@@ -1,0 +1,11 @@
+{
+	"name": "How to train your dragon",
+	"description": "A workflow to train your dragon",
+	"steps": [
+		{
+			"name": "Train your dragon",
+			"description": "Train your dragon",
+			"action": "train-dragon"
+		}
+	]
+}

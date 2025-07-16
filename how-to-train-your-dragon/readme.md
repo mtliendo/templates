@@ -4,6 +4,8 @@ author: 'Michael Liendo'
 description: 'A guide to using the "How to train your dragon" workflow'
 workflow: 'how-to-train-your-dragon/workflow.json'
 orkesDeveloperEdition: true
+language: 'javascript'
+tags: ['openai', 'fullstack']
 ---
 
 # How to train your dragon
